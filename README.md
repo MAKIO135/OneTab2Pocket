@@ -4,7 +4,7 @@ OneTab2Pocket
 Bookmarklet sending [OneTab](http://www.one-tab.com/) links to [Pocket](http://getpocket.com/).
 
 #Notes#
-Make sure you're logged into Pocket before using.
+Make sure you're logged into Pocket before using.<br>
 It seems Chrome doesn't allow using bookmarklet on extensions tabs so:<br>
 __Once you've used OneTab, click on the "Share all as web page" link (top right of the tab created by the extension) and on the "http://www.one-tab.com/page/..." use the bookmarklet.__
 
