@@ -3,9 +3,10 @@ OneTab2Pocket
 
 Bookmarklet sending [OneTab](http://www.one-tab.com/) links to [Pocket](http://getpocket.com/).
 
-OneTab is a Chrome extension that lets you easily export and import your tabs as a list of URLs.<br>
-Once you've used OneTab, it seems Chrome doesn't allow using bookmarklet on extensions tabs so:<br>
-__click on the "Share all as web page" link (top right of the tab created by the extension) and on the "http://www.one-tab.com/page/..." you can use the bookmarklet.__
+#Notes#
+Make sure you're logged into Pocket before using.
+It seems Chrome doesn't allow using bookmarklet on extensions tabs so:<br>
+__Once you've used OneTab, click on the "Share all as web page" link (top right of the tab created by the extension) and on the "http://www.one-tab.com/page/..." use the bookmarklet.__
 
 To install the bookmarklet select the following line of code, drag'n drop it to your favorites and rename it "OneTab2Pocket":
  ```javascript
